@@ -18,3 +18,26 @@ Demonstrar na prática o funcionamento de uma rede descentralizada, o encadeamen
 3. Abra o terminal na pasta do arquivo e execute:
    ```bash
    python nanochain-phyton.py
+
+   -----------------------------------------
+
+   # 🚀 NanoChain - A Functional Blockchain in Python
+
+A robust, structured educational simulation of a blockchain architecture developed in **Python 3**, utilizing real-world concepts of cryptography, consensus, and data immutability.
+
+## 🎯 Project Objective
+To demonstrate in practice how a decentralized network works, including block chaining via digital signatures, the integrity validation mechanism, and the **Proof of Work (PoW)** consensus algorithm, similar to that used by major protocols such as Bitcoin.
+
+## 🛠️ Technologies and Concepts Applied
+- **Python 3.x**: Clean, component-based code structured using Object-Oriented Programming (OOP).
+- **`hashlib` library**: Generation of true deterministic hashes using the **SHA-256** cryptographic algorithm.
+- **Mining Mechanism (PoW)**: Block validation based on a dynamic difficulty level via `nonce` manipulation.
+- **Immutability Guarantee**: A scanning algorithm that validates whether the chain has undergone any type of historical tampering attempt.
+
+## ⚙️ How to Run the Project
+
+1. Make sure you have Python 3 installed on your machine.
+2. Clone this repository or download the `nanochain-python.py` file.
+3. Open the terminal in the file’s folder and run:
+   ```bash
+   python nanochain-python.py
