@@ -19,9 +19,7 @@ Demonstrar na prática o funcionamento de uma rede descentralizada, o encadeamen
    ```bash
    python nanochain-phyton.py
 
-   -----------------------------------------
-
-   # 🚀 NanoChain - A Functional Blockchain in Python
+# 🚀 NanoChain - A Functional Blockchain in Python
 
 A robust, structured educational simulation of a blockchain architecture developed in **Python 3**, utilizing real-world concepts of cryptography, consensus, and data immutability.
 
